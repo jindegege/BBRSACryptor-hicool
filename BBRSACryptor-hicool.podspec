@@ -14,9 +14,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "BBRSACryptor-hicool”
+  s.name         = "BBRSACryptor-hicool"
   s.version      = "0.0.1"
-  s.summary      = "BBRSACryptor-hicool.”
+  s.summary      = "BBRSACryptor-hicool."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
                     BBRSACryptor-hicool is a library.
                    DESC
 
-  s.homepage     = "https://coding.net/u/jindegege/p/BBRSACryptor-hicool”
+  s.homepage     = "https://coding.net/u/jindegege/p/BBRSACryptor-hicool"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -52,8 +52,8 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "jinde" => "jindegege@aliyun.com" }
-  # Or just: s.author    = "jinde"
+  s.author             = { "jindegege" => "jindegege@aliyun.com" }
+  # Or just: s.author    = "jindegege"
   # s.authors            = { "jindegege" => "jindegege@aliyun.com" }
  
 
