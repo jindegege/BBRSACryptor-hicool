@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
                     BBRSACryptor-hicool is a library.
                    DESC
 
-  s.homepage     = "http://github.com/jindegege/BBRSACryptor-hicool"
+  s.homepage     = "https://github.com/jindegege/BBRSACryptor-hicool"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://github.com/jindegege/BBRSACryptor-hicool.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/jindegege/BBRSACryptor-hicool.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
